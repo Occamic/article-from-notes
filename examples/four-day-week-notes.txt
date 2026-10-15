@@ -1,0 +1,14 @@
+4 day week trial - notes for blog
+- ran trial jan-jun 2026, team of 12 (design + dev)
+- fridays off, same pay, no extra hours mon-thu (tried 10hr days at first, dropped after 3 wks - people exhausted)
+- output: shipped 14 client projects vs 13 same period last yr
+- sick days down from 31 to 18
+- two people struggled - client-facing roles, clients expected fri replies
+- fix: rota for account managers, one covers fri, gets mon off instead
+- meetings cut: standup now async in slack, weekly all-hands 60->30 min
+- Priya (ops lead): "the meetings were the real problem, not the hours"
+- recruitment: 3x applicants for last job ad vs before
+- sick days fell a lot (31->18)
+- decided to keep it permanently from july
+- cost? didn't really measure - maybe mention overtime?
+- tools: moved to async updates, shared calendar showing who's off

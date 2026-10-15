@@ -1,0 +1,17 @@
+{
+  "name": "article-from-notes",
+  "owner": {
+    "name": "YOUR NAME"
+  },
+  "metadata": {
+    "description": "Article from Notes: turn rough notes into a finished blog or magazine article."
+  },
+  "plugins": [
+    {
+      "name": "article-from-notes",
+      "source": "./",
+      "description": "Turn rough notes into a finished blog or magazine article, with headline options and SEO details. Added facts are cited or marked [check]; anecdotes and quotes are never invented.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "article-from-notes",
+  "displayName": "Article from Notes",
+  "version": "1.0.0",
+  "description": "Turn rough notes into a finished blog or magazine article, with headline options, SEO title, meta description, slug, tags and excerpt. Added facts are cited or marked [check]; anecdotes and quotes are never invented.",
+  "author": {
+    "name": "YOUR NAME"
+  },
+  "homepage": "https://github.com/YOUR-GITHUB-USERNAME/article-from-notes",
+  "repository": "https://github.com/YOUR-GITHUB-USERNAME/article-from-notes",
+  "license": "MIT",
+  "keywords": ["writing", "blog", "article", "notes", "content", "seo", "newsletter"]
+}
